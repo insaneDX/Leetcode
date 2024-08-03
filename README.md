@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/insaneDX/Leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/insaneDX/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Stack
 |  |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/insaneDX/Leetcode/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/insaneDX/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/insaneDX/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
