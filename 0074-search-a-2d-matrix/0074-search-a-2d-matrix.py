@@ -1,5 +1,3 @@
-from typing import List
-
 class Solution:
 
     def helper(self, matrix: List[List[int]], target: int, left, right):
