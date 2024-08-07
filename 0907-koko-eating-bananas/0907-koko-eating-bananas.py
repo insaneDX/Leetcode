@@ -7,11 +7,8 @@ class Solution:
       return hours
 
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        piles.sort()
-
-        #print(piles) # log n
-
-        left, right = 1,piles[-1]
+        
+        left, right = 1,max(piles)
         while left<right:
           mid = ((left + right) //2) 
           print(left, right)
