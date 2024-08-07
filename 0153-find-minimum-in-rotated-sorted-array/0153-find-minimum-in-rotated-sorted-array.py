@@ -12,7 +12,7 @@ class Solution:
             mid = (left + right) // 2
 
             # Check if mid is the minimum
-            if nums[mid] < nums[mid - 1]:
+            if nums[mid] < nums[mid - 1]: #[7,5,3,0,1,2] If the right element of the left partition is greater than the middle element, this is the breaking point.
                 return nums[mid]
             elif nums[mid] > nums[right]:
                 # Minimum is in the right part
