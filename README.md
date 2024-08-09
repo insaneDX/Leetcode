@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/insaneDX/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/insaneDX/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/insaneDX/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/insaneDX/Leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/insaneDX/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/insaneDX/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/insaneDX/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/insaneDX/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/insaneDX/Leetcode/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/insaneDX/Leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/insaneDX/Leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/insaneDX/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/insaneDX/Leetcode/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,5 +98,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/insaneDX/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/insaneDX/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/insaneDX/Leetcode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/insaneDX/Leetcode/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
