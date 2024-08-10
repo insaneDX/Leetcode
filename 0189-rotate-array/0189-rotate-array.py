@@ -3,7 +3,11 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
+        if k ==0:
+            return 
         n = len(nums)
+        if k == n:
+            return
         k = k % n  # In case k is greater than n
         
         # Helper function to reverse a portion of the array
