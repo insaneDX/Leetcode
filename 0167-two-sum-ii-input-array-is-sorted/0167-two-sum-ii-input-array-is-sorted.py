@@ -3,7 +3,6 @@ class Solution:
         left = 0
         right = len(nums)-1
         while left<=right:
-            print("left",left, "right", right,nums[left] + nums[right] )
             if nums[left] + nums[right] == target:
                 return [left + 1, right + 1]
             elif nums[left] + nums[right] < target:
