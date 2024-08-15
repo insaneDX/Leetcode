@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/insaneDX/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/insaneDX/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/insaneDX/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/insaneDX/Leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/insaneDX/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0792-binary-search](https://github.com/insaneDX/Leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/insaneDX/Leetcode/tree/master/0816-design-hashset) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/insaneDX/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/insaneDX/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/insaneDX/Leetcode/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,4 +133,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/insaneDX/Leetcode/tree/master/0816-design-hashset) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/insaneDX/Leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/insaneDX/Leetcode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/insaneDX/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
