@@ -13,8 +13,7 @@ class Solution:
                 new_row = row + x
                 new_col = col + y
 
-                if (new_row in range(rows) and new_col in range(cols) and (new_row, new_col) not in visited 
-                    and grid[new_row][new_col] == "1"):
+                if (new_row in range(rows) and new_col in range(cols) and (new_row, new_col) not in visited and grid[new_row][new_col] == "1"):
                     dfs(new_row, new_col)
 
         for row in range(rows):
