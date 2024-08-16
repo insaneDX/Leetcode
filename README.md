@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/insaneDX/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Sliding Window
 |  |
 | ------- |
@@ -140,14 +141,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/insaneDX/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/insaneDX/Leetcode/tree/master/0695-max-area-of-island) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/insaneDX/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/insaneDX/Leetcode/tree/master/0695-max-area-of-island) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/insaneDX/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/insaneDX/Leetcode/tree/master/0695-max-area-of-island) |
+## Graph
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
