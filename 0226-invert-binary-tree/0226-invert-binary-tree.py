@@ -4,6 +4,7 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution(object):
     def invertTree(self, root):
         """
@@ -11,6 +12,7 @@ class Solution(object):
         :rtype: TreeNode
         """
         stack = [root]
+
         while stack:
             curr = stack.pop()
             if curr:
