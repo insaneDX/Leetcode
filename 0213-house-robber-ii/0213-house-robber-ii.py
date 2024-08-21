@@ -25,7 +25,7 @@ class Solution:
         if n == 1:
             return nums[0]
         
-        # Initialize memoization array with -1
+        # Initialize memoization array with -1, use 2 different memo because of index conflict
         memo1 = [-1 for _ in range(n-1)]
         memo2 = [-1 for _ in range(n-1)]
 
