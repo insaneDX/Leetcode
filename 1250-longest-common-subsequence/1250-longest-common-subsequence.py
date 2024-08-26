@@ -2,7 +2,7 @@ class Solution:
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
         m = len(text1)
         n = len(text2)
-        memo = {}  # Memoization dictionary to store computed results
+        memo = {}  
 
         def reconstruct_lcs(m, n):
             # Function to reconstruct the Longest Common Subsequence
