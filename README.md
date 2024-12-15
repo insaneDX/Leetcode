@@ -81,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/insaneDX/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/insaneDX/Leetcode/tree/master/0242-valid-anagram) |
 | [0816-design-hashset](https://github.com/insaneDX/Leetcode/tree/master/0816-design-hashset) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/insaneDX/Leetcode/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/insaneDX/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/insaneDX/Leetcode/tree/master/0242-valid-anagram) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/insaneDX/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Linked List
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/insaneDX/Leetcode/tree/master/0695-max-area-of-island) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/insaneDX/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/insaneDX/Leetcode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/insaneDX/Leetcode/tree/master/0695-max-area-of-island) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/insaneDX/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -227,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Memoization
 |  |
 | ------- |
