@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/insaneDX/Leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/insaneDX/Leetcode/tree/master/0816-design-hashset) |
 | [0907-koko-eating-bananas](https://github.com/insaneDX/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1095-two-city-scheduling](https://github.com/insaneDX/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/insaneDX/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Math
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/insaneDX/Leetcode/tree/master/0011-container-with-most-water) |
+| [1095-two-city-scheduling](https://github.com/insaneDX/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1252-break-a-palindrome](https://github.com/insaneDX/Leetcode/tree/master/1252-break-a-palindrome) |
 ## Hash Table
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/insaneDX/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/insaneDX/Leetcode/tree/master/0242-valid-anagram) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1095-two-city-scheduling](https://github.com/insaneDX/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/insaneDX/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Linked List
 |  |
