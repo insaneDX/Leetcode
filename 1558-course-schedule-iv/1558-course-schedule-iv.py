@@ -17,3 +17,9 @@ class Solution:
     
         # return prerequisite matrix for the asked queries
         return [reachability_matrix[u][v] for u,v in queries]
+
+# Time Complexity
+# creating a numCourses x numCourses matrix, which takes O(numCourses^2) time.
+# Marking direct Prerequisites -> Time : O(P), where P is the len of prerequisites.
+# The Floyd-Warshall algorithm involves three nested loops, each iterating numCourses times. This results in a time complexity of O(numCourses^3).
+# Processing Queries: This step involves iterating through the queries list, which takes O(Q) time, where Q is the number of queries.
