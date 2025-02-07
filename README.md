@@ -249,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/insaneDX/Leetcode/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/insaneDX/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
