@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/insaneDX/Leetcode/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/insaneDX/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/insaneDX/Leetcode/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/insaneDX/Leetcode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/insaneDX/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/insaneDX/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/insaneDX/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/insaneDX/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/insaneDX/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/insaneDX/Leetcode/tree/master/0189-rotate-array) |
+| [0443-string-compression](https://github.com/insaneDX/Leetcode/tree/master/0443-string-compression) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/insaneDX/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/insaneDX/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
