@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/insaneDX/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/insaneDX/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/insaneDX/Leetcode/tree/master/0189-rotate-array) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/insaneDX/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Stack
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/insaneDX/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/insaneDX/Leetcode/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/insaneDX/Leetcode/tree/master/0242-valid-anagram) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/insaneDX/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/insaneDX/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Two Pointers
 |  |
