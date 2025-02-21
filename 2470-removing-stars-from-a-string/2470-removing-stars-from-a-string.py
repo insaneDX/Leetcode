@@ -7,4 +7,4 @@ class Solution:
             elif char != "*":
                 stack.append(char)
         
-        return "".join(char for char in stack)
+        return "".join(stack)
