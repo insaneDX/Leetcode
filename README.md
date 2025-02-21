@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/insaneDX/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/insaneDX/Leetcode/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/insaneDX/Leetcode/tree/master/0695-max-area-of-island) |
+| [0735-asteroid-collision](https://github.com/insaneDX/Leetcode/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/insaneDX/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/insaneDX/Leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/insaneDX/Leetcode/tree/master/0816-design-hashset) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/insaneDX/Leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/insaneDX/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/insaneDX/Leetcode/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/insaneDX/Leetcode/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/insaneDX/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/insaneDX/Leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
