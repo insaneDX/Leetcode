@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/insaneDX/Leetcode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/insaneDX/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/insaneDX/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1777-determine-if-two-strings-are-close](https://github.com/insaneDX/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/insaneDX/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/insaneDX/Leetcode/tree/master/0242-valid-anagram) |
 | [0816-design-hashset](https://github.com/insaneDX/Leetcode/tree/master/0816-design-hashset) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1777-determine-if-two-strings-are-close](https://github.com/insaneDX/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/insaneDX/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1095-two-city-scheduling](https://github.com/insaneDX/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/insaneDX/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1777-determine-if-two-strings-are-close](https://github.com/insaneDX/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/insaneDX/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |
@@ -274,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/insaneDX/Leetcode/tree/master/0176-second-highest-salary) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/insaneDX/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
