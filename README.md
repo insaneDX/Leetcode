@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/insaneDX/Leetcode/tree/master/0695-max-area-of-island) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0904-leaf-similar-trees](https://github.com/insaneDX/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/insaneDX/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2793-count-the-number-of-complete-components](https://github.com/insaneDX/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/insaneDX/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/insaneDX/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Memoization
 |  |
