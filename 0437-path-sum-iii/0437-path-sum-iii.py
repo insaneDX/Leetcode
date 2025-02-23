@@ -17,8 +17,8 @@ class Solution:
 
             #check if prefix existed?
             count = prefix_sum[curr_sum - targetSum]
-            
-            # append curr_sum
+
+            # append curr_sum value in prefix_sums
             prefix_sum[curr_sum] += 1
 
             # travere left and right node
