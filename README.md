@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/insaneDX/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/insaneDX/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/insaneDX/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2690-house-robber-iv](https://github.com/insaneDX/Leetcode/tree/master/2690-house-robber-iv) |
 ## Math
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/insaneDX/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/insaneDX/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/insaneDX/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2690-house-robber-iv](https://github.com/insaneDX/Leetcode/tree/master/2690-house-robber-iv) |
 ## Matrix
 |  |
 | ------- |
