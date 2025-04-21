@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/insaneDX/Leetcode/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/insaneDX/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/insaneDX/Leetcode/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/insaneDX/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/insaneDX/Leetcode/tree/master/0816-design-hashset) |
 | [0907-koko-eating-bananas](https://github.com/insaneDX/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/insaneDX/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/insaneDX/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/insaneDX/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/insaneDX/Leetcode/tree/master/0189-rotate-array) |
+| [0797-rabbits-in-forest](https://github.com/insaneDX/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/insaneDX/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Stack
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/insaneDX/Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/insaneDX/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0797-rabbits-in-forest](https://github.com/insaneDX/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1095-two-city-scheduling](https://github.com/insaneDX/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1252-break-a-palindrome](https://github.com/insaneDX/Leetcode/tree/master/1252-break-a-palindrome) |
 ## Hash Table
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/insaneDX/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/insaneDX/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/insaneDX/Leetcode/tree/master/0242-valid-anagram) |
+| [0797-rabbits-in-forest](https://github.com/insaneDX/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/insaneDX/Leetcode/tree/master/0816-design-hashset) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1777-determine-if-two-strings-are-close](https://github.com/insaneDX/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
