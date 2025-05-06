@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/insaneDX/Leetcode/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/insaneDX/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/insaneDX/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/insaneDX/Leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/insaneDX/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/insaneDX/Leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/insaneDX/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/insaneDX/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/insaneDX/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/insaneDX/Leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/insaneDX/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/insaneDX/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/insaneDX/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/insaneDX/Leetcode/tree/master/0091-decode-ways) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/insaneDX/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/insaneDX/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/insaneDX/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/insaneDX/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/insaneDX/Leetcode/tree/master/0242-valid-anagram) |
 | [0797-rabbits-in-forest](https://github.com/insaneDX/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/insaneDX/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/insaneDX/Leetcode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/insaneDX/Leetcode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/insaneDX/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/insaneDX/Leetcode/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/insaneDX/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
