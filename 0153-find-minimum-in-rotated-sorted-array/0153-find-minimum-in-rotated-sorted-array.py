@@ -2,23 +2,42 @@ from typing import List
 
 class Solution:
     def findMin(self, nums: List[int]) -> int:
-        left, right = 0, len(nums) - 1
-
-        # If the array is not rotated, the minimum is the first element
-        if nums[left] < nums[right]:
-            return nums[left]
-
-        while left < right:
+        #Time Complexity: O(log n)
+        #Space Complexity: O(log n)
+        def binary_search(left, right):
+            # Base case: if the search window is down to 1 element
+            if left == right:
+                return nums[left]
+            
             mid = (left + right) // 2
 
-            # Check if mid is the minimum
-            if nums[mid] < nums[mid - 1]:  #[7,5,3,0,1,2] If the right element of the left partition is greater than the middle element, this is the breaking point.
-                return nums[mid]
-            elif nums[mid] > nums[right]:
-                # Minimum is in the right part
-                left = mid + 1
+            # If mid element is greater than right, min is in right half
+            if nums[mid] > nums[right]:
+                return binary_search(mid + 1, right)
             else:
-                # Minimum is in the left part
-                right = mid - 1
+                # Otherwise, min is in the left half (including mid)
+                return binary_search(left, mid)
 
-        return nums[left]
+        return binary_search(0, len(nums) - 1)
+
+
+
+# class Solution:
+#     def findMin(self, nums: List[int]) -> int:
+          #Time Complexity: O(log n)
+          #Space Complexity: O(1)
+#         left, right = 0, len(nums) - 1
+
+#         while left < right:
+#             mid = (left + right) // 2
+
+#             # If mid element is greater than right, minimum must be on the right
+#             if nums[mid] > nums[right]:
+#                 left = mid + 1
+#             else:
+#                 # Minimum is at mid or to the left of mid
+#                 right = mid
+
+#         # At the end, left == right and points to the smallest value
+#         return nums[left]
+
