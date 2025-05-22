@@ -38,6 +38,6 @@ class Solution:
 #                 # Minimum is at mid or to the left of mid
 #                 right = mid
 
-#         # At the end, left == right and points to the smallest value
+#         # At the end, left == right and that points is the smallest value
 #         return nums[left]
 
