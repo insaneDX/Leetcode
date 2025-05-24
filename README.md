@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/insaneDX/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0494-target-sum](https://github.com/insaneDX/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/insaneDX/Leetcode/tree/master/0518-coin-change-ii) |
+| [0658-find-k-closest-elements](https://github.com/insaneDX/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/insaneDX/Leetcode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/insaneDX/Leetcode/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/insaneDX/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/insaneDX/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/insaneDX/Leetcode/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/insaneDX/Leetcode/tree/master/0443-string-compression) |
+| [0658-find-k-closest-elements](https://github.com/insaneDX/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/insaneDX/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/insaneDX/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/insaneDX/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/insaneDX/Leetcode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/insaneDX/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/insaneDX/Leetcode/tree/master/0242-valid-anagram) |
+| [0658-find-k-closest-elements](https://github.com/insaneDX/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/insaneDX/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1095-two-city-scheduling](https://github.com/insaneDX/Leetcode/tree/master/1095-two-city-scheduling) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/insaneDX/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/insaneDX/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/insaneDX/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0658-find-k-closest-elements](https://github.com/insaneDX/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/insaneDX/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/insaneDX/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/insaneDX/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/insaneDX/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/insaneDX/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/insaneDX/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Backtracking
 |  |
@@ -267,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/insaneDX/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
