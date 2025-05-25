@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/insaneDX/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/insaneDX/Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/insaneDX/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/insaneDX/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/insaneDX/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/insaneDX/Leetcode/tree/master/0518-coin-change-ii) |
 | [0658-find-k-closest-elements](https://github.com/insaneDX/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/insaneDX/Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/insaneDX/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/insaneDX/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0797-rabbits-in-forest](https://github.com/insaneDX/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1095-two-city-scheduling](https://github.com/insaneDX/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1252-break-a-palindrome](https://github.com/insaneDX/Leetcode/tree/master/1252-break-a-palindrome) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/insaneDX/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/insaneDX/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/insaneDX/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0410-split-array-largest-sum](https://github.com/insaneDX/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/insaneDX/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/insaneDX/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/insaneDX/Leetcode/tree/master/0792-binary-search) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/insaneDX/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/insaneDX/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/insaneDX/Leetcode/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/insaneDX/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/insaneDX/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/insaneDX/Leetcode/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/insaneDX/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -329,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/insaneDX/Leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/insaneDX/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/insaneDX/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
