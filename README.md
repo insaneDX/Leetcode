@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/insaneDX/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/insaneDX/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/insaneDX/Leetcode/tree/master/0695-max-area-of-island) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0904-leaf-similar-trees](https://github.com/insaneDX/Leetcode/tree/master/0904-leaf-similar-trees) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/insaneDX/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/insaneDX/Leetcode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/insaneDX/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/insaneDX/Leetcode/tree/master/0695-max-area-of-island) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -267,12 +269,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/insaneDX/Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/insaneDX/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/insaneDX/Leetcode/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/insaneDX/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/insaneDX/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/insaneDX/Leetcode/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1558-course-schedule-iv](https://github.com/insaneDX/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2793-count-the-number-of-complete-components](https://github.com/insaneDX/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
