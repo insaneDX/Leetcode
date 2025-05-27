@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/insaneDX/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/insaneDX/Leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/insaneDX/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/insaneDX/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/insaneDX/Leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/insaneDX/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/insaneDX/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/insaneDX/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/insaneDX/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/insaneDX/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/insaneDX/Leetcode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/insaneDX/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/insaneDX/Leetcode/tree/master/0494-target-sum) |
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/insaneDX/Leetcode/tree/master/0278-first-bad-version) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/insaneDX/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
