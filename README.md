@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/insaneDX/Leetcode/tree/master/0695-max-area-of-island) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/insaneDX/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/insaneDX/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/insaneDX/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/insaneDX/Leetcode/tree/master/1558-course-schedule-iv) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/insaneDX/Leetcode/tree/master/0695-max-area-of-island) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/insaneDX/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/insaneDX/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/insaneDX/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2793-count-the-number-of-complete-components](https://github.com/insaneDX/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/insaneDX/Leetcode/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/insaneDX/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/insaneDX/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1558-course-schedule-iv](https://github.com/insaneDX/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2793-count-the-number-of-complete-components](https://github.com/insaneDX/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Heap (Priority Queue)
