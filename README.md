@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/insaneDX/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/insaneDX/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/insaneDX/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/insaneDX/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/insaneDX/Leetcode/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/insaneDX/Leetcode/tree/master/0443-string-compression) |
 | [0721-accounts-merge](https://github.com/insaneDX/Leetcode/tree/master/0721-accounts-merge) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/insaneDX/Leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/insaneDX/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/insaneDX/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/insaneDX/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/insaneDX/Leetcode/tree/master/0389-find-the-difference) |
 | [0721-accounts-merge](https://github.com/insaneDX/Leetcode/tree/master/0721-accounts-merge) |
 | [0797-rabbits-in-forest](https://github.com/insaneDX/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/insaneDX/Leetcode/tree/master/0383-ransom-note) |
 | [1777-determine-if-two-strings-are-close](https://github.com/insaneDX/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Simulation
 |  |
