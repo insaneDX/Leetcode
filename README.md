@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/insaneDX/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/insaneDX/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/insaneDX/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/insaneDX/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/insaneDX/Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/insaneDX/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/insaneDX/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/insaneDX/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/insaneDX/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/insaneDX/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/insaneDX/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/insaneDX/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/insaneDX/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/insaneDX/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1184-car-pooling](https://github.com/insaneDX/Leetcode/tree/master/1184-car-pooling) |
@@ -411,4 +414,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/insaneDX/Leetcode/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/insaneDX/Leetcode/tree/master/0389-find-the-difference) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/insaneDX/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/insaneDX/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
