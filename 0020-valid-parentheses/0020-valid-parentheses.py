@@ -1,32 +1,26 @@
 class Solution:
-    def matchup(self,a,b):
-        if a == '{' and b == '}':
-            return True
-        if a == '[' and b == ']':
-            return True
-        if a == '(' and b == ')':
-            return True
-  
-        return False
     def isValid(self, s: str) -> bool:
+        closeToOpen = {
+            "}": "{",
+            ")": "(",
+            "]": "["
+        }
         stack = []
-        top = -1
-        valid = False
 
-        for char in s:
-            if top >= 0 and self.matchup(stack[top],char):
-                stack.pop()
-                valid = True
-                top -= 1
-            else :
-                top +=  1
-                stack.append(char)
-                valid = False
+        for c in s:
+            if c in closeToOpen: # we enconter closing pair
+                if stack and stack[-1] == closeToOpen[c]:
+                    stack.pop()
+                else: 
+                    return False # if stack top element is not the closing pair of current parantheses
+            else:
+                stack.append(c)
+            
+        return True if not stack else False
+                
 
-  
-        if len(stack) == 0:
-            return valid
-        else: 
-            return False
+
+
+        
 
         
