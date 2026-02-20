@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/insaneDX/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/insaneDX/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/insaneDX/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/insaneDX/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/insaneDX/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/insaneDX/Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/insaneDX/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/insaneDX/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/insaneDX/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/insaneDX/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1184-car-pooling](https://github.com/insaneDX/Leetcode/tree/master/1184-car-pooling) |
