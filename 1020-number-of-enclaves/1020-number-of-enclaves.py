@@ -33,7 +33,7 @@ class Solution:
             dfs(row, 0)
             dfs(row, cols-1)
 
-        # 2Count remaining land (these are enclaves)
+        # Count remaining land (these are enclaves)
         count = 0
         for r in range(rows):
             for c in range(cols):
