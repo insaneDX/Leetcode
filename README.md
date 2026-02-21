@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/insaneDX/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/insaneDX/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/insaneDX/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/insaneDX/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/insaneDX/Leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/insaneDX/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/insaneDX/Leetcode/tree/master/0078-subsets) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/insaneDX/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/insaneDX/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/insaneDX/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/insaneDX/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/insaneDX/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/insaneDX/Leetcode/tree/master/0079-word-search) |
