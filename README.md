@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/insaneDX/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/insaneDX/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/insaneDX/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/insaneDX/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/insaneDX/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/insaneDX/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/insaneDX/Leetcode/tree/master/0322-coin-change) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/insaneDX/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/insaneDX/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/insaneDX/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/insaneDX/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/insaneDX/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/insaneDX/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/insaneDX/Leetcode/tree/master/0389-find-the-difference) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/insaneDX/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/insaneDX/Leetcode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/insaneDX/Leetcode/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/insaneDX/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/insaneDX/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/insaneDX/Leetcode/tree/master/0389-find-the-difference) |
 | [0658-find-k-closest-elements](https://github.com/insaneDX/Leetcode/tree/master/0658-find-k-closest-elements) |
