@@ -9,7 +9,6 @@ class Solution:
             for i in range(start, len(nums)):
                 if i > start and nums[i] == nums[i-1]:
                     continue
-                # include
                 path.append(nums[i])
                 backtrack(i+1, path)
                 path.pop()
@@ -18,3 +17,7 @@ class Solution:
         backtrack(0, [])
 
         return result
+
+# time complexity: O(n.2^n)
+# space complexity:  O(n⋅2^n) (including output and auxilary space)
+# recursion stack : O(n) and output stack  O(n⋅2^n)
