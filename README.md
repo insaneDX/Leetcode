@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/insaneDX/Leetcode/tree/master/0869-similar-string-groups) |
 | [0907-koko-eating-bananas](https://github.com/insaneDX/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0971-shortest-bridge](https://github.com/insaneDX/Leetcode/tree/master/0971-shortest-bridge) |
+| [0994-rotting-oranges](https://github.com/insaneDX/Leetcode/tree/master/0994-rotting-oranges) |
 | [1019-squares-of-a-sorted-array](https://github.com/insaneDX/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1020-number-of-enclaves](https://github.com/insaneDX/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/insaneDX/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/insaneDX/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/insaneDX/Leetcode/tree/master/0733-flood-fill) |
 | [0971-shortest-bridge](https://github.com/insaneDX/Leetcode/tree/master/0971-shortest-bridge) |
+| [0994-rotting-oranges](https://github.com/insaneDX/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/insaneDX/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Dynamic Programming
 |  |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/insaneDX/Leetcode/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/insaneDX/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0971-shortest-bridge](https://github.com/insaneDX/Leetcode/tree/master/0971-shortest-bridge) |
+| [0994-rotting-oranges](https://github.com/insaneDX/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/insaneDX/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/insaneDX/Leetcode/tree/master/1558-course-schedule-iv) |
