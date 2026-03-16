@@ -2,10 +2,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/insaneDX/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/insaneDX/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/insaneDX/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/insaneDX/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/insaneDX/Leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/insaneDX/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -71,8 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/insaneDX/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2690-house-robber-iv](https://github.com/insaneDX/Leetcode/tree/master/2690-house-robber-iv) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/insaneDX/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/insaneDX/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/insaneDX/Leetcode/tree/master/0069-sqrtx) |
@@ -82,8 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/insaneDX/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/insaneDX/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/insaneDX/Leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/insaneDX/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/insaneDX/Leetcode/tree/master/0155-min-stack) |
@@ -92,15 +93,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/insaneDX/Leetcode/tree/master/0739-daily-temperatures) |
 | [2470-removing-stars-from-a-string](https://github.com/insaneDX/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/insaneDX/Leetcode/tree/master/0155-min-stack) |
 | [0816-design-hashset](https://github.com/insaneDX/Leetcode/tree/master/0816-design-hashset) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/insaneDX/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/insaneDX/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/insaneDX/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/insaneDX/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/insaneDX/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/insaneDX/Leetcode/tree/master/0072-edit-distance) |
@@ -122,8 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/insaneDX/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/insaneDX/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/insaneDX/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/insaneDX/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/insaneDX/Leetcode/tree/master/0016-3sum-closest) |
@@ -144,8 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/insaneDX/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/insaneDX/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/insaneDX/Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/insaneDX/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/insaneDX/Leetcode/tree/master/0409-longest-palindrome) |
@@ -154,8 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/insaneDX/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1252-break-a-palindrome](https://github.com/insaneDX/Leetcode/tree/master/1252-break-a-palindrome) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/insaneDX/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/insaneDX/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/insaneDX/Leetcode/tree/master/0049-group-anagrams) |
@@ -179,8 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/insaneDX/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/insaneDX/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/insaneDX/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/insaneDX/Leetcode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/insaneDX/Leetcode/tree/master/0047-permutations-ii) |
@@ -202,8 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/insaneDX/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/insaneDX/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/insaneDX/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/insaneDX/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/insaneDX/Leetcode/tree/master/0021-merge-two-sorted-lists) |
@@ -216,15 +218,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/insaneDX/Leetcode/tree/master/0816-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/insaneDX/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/insaneDX/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/insaneDX/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/insaneDX/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/insaneDX/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/insaneDX/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/insaneDX/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/insaneDX/Leetcode/tree/master/0035-search-insert-position) |
@@ -245,8 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/insaneDX/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2690-house-robber-iv](https://github.com/insaneDX/Leetcode/tree/master/2690-house-robber-iv) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/insaneDX/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/insaneDX/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/insaneDX/Leetcode/tree/master/0130-surrounded-regions) |
@@ -257,8 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/insaneDX/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/insaneDX/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/insaneDX/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/insaneDX/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/insaneDX/Leetcode/tree/master/0072-edit-distance) |
@@ -275,16 +277,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/insaneDX/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/insaneDX/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/insaneDX/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/insaneDX/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/insaneDX/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/insaneDX/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0039-combination-sum](https://github.com/insaneDX/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/insaneDX/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/insaneDX/Leetcode/tree/master/0046-permutations) |
@@ -297,21 +299,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/insaneDX/Leetcode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/insaneDX/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0148-sort-list](https://github.com/insaneDX/Leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/insaneDX/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0148-sort-list](https://github.com/insaneDX/Leetcode/tree/master/0148-sort-list) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0816-design-hashset](https://github.com/insaneDX/Leetcode/tree/master/0816-design-hashset) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/insaneDX/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0110-balanced-binary-tree) |
@@ -339,8 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/insaneDX/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2793-count-the-number-of-complete-components](https://github.com/insaneDX/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/insaneDX/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/insaneDX/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -368,8 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/insaneDX/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2793-count-the-number-of-complete-components](https://github.com/insaneDX/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0200-number-of-islands](https://github.com/insaneDX/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/insaneDX/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/insaneDX/Leetcode/tree/master/0695-max-area-of-island) |
@@ -377,8 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/insaneDX/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0869-similar-string-groups](https://github.com/insaneDX/Leetcode/tree/master/0869-similar-string-groups) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/insaneDX/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/insaneDX/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/insaneDX/Leetcode/tree/master/0547-number-of-provinces) |
@@ -390,27 +392,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/insaneDX/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2793-count-the-number-of-complete-components](https://github.com/insaneDX/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/insaneDX/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/insaneDX/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/insaneDX/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1184-car-pooling](https://github.com/insaneDX/Leetcode/tree/master/1184-car-pooling) |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/insaneDX/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/insaneDX/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/insaneDX/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/insaneDX/Leetcode/tree/master/1558-course-schedule-iv) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/insaneDX/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/insaneDX/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -421,8 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/insaneDX/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/insaneDX/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/insaneDX/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -433,74 +435,75 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/insaneDX/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/insaneDX/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/insaneDX/Leetcode/tree/master/0139-word-break) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/insaneDX/Leetcode/tree/master/0062-unique-paths) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0176-second-highest-salary](https://github.com/insaneDX/Leetcode/tree/master/0176-second-highest-salary) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/insaneDX/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/insaneDX/Leetcode/tree/master/0383-ransom-note) |
 | [1777-determine-if-two-strings-are-close](https://github.com/insaneDX/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0735-asteroid-collision](https://github.com/insaneDX/Leetcode/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/insaneDX/Leetcode/tree/master/1184-car-pooling) |
 | [2470-removing-stars-from-a-string](https://github.com/insaneDX/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/insaneDX/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/insaneDX/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/insaneDX/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1184-car-pooling](https://github.com/insaneDX/Leetcode/tree/master/1184-car-pooling) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0278-first-bad-version](https://github.com/insaneDX/Leetcode/tree/master/0278-first-bad-version) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/insaneDX/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/insaneDX/Leetcode/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/insaneDX/Leetcode/tree/master/0389-find-the-difference) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/insaneDX/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/insaneDX/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0739-daily-temperatures](https://github.com/insaneDX/Leetcode/tree/master/0739-daily-temperatures) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/insaneDX/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/insaneDX/Leetcode/tree/master/0139-word-break) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/insaneDX/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/insaneDX/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0130-surrounded-regions](https://github.com/insaneDX/Leetcode/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/insaneDX/Leetcode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
