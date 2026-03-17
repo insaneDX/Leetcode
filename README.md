@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/insaneDX/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/insaneDX/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1184-car-pooling](https://github.com/insaneDX/Leetcode/tree/master/1184-car-pooling) |
+| [1268-search-suggestions-system](https://github.com/insaneDX/Leetcode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/insaneDX/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/insaneDX/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/insaneDX/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/insaneDX/Leetcode/tree/master/0869-similar-string-groups) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/insaneDX/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/insaneDX/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1268-search-suggestions-system](https://github.com/insaneDX/Leetcode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1777-determine-if-two-strings-are-close](https://github.com/insaneDX/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/insaneDX/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/insaneDX/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/insaneDX/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1095-two-city-scheduling](https://github.com/insaneDX/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1184-car-pooling](https://github.com/insaneDX/Leetcode/tree/master/1184-car-pooling) |
+| [1268-search-suggestions-system](https://github.com/insaneDX/Leetcode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/insaneDX/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/insaneDX/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1777-determine-if-two-strings-are-close](https://github.com/insaneDX/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/insaneDX/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/insaneDX/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/insaneDX/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1268-search-suggestions-system](https://github.com/insaneDX/Leetcode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/insaneDX/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/insaneDX/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2690-house-robber-iv](https://github.com/insaneDX/Leetcode/tree/master/2690-house-robber-iv) |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/insaneDX/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1184-car-pooling](https://github.com/insaneDX/Leetcode/tree/master/1184-car-pooling) |
+| [1268-search-suggestions-system](https://github.com/insaneDX/Leetcode/tree/main/1268-search-suggestions-system/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -500,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/insaneDX/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/insaneDX/Leetcode/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/insaneDX/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1268-search-suggestions-system](https://github.com/insaneDX/Leetcode/tree/main/1268-search-suggestions-system/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
