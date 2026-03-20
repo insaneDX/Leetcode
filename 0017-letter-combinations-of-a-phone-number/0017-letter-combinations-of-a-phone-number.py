@@ -38,4 +38,4 @@ class Solution:
 # O(n × 3^n)   (average case)
 
 # Space complexity
-# O(n × 4^n)   (dominant: result)
+# O(n × 4^n)  
