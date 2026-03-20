@@ -27,3 +27,15 @@ class Solution:
         dfs(0, "")
 
         return result
+
+
+# Time complexity
+# Each digit maps to:
+# 3 letters → (2,3,4,5,6,8)
+# 4 letters → (7,9)
+# n = len(digits)
+# O(n × 4^n)   (worst case)
+# O(n × 3^n)   (average case)
+
+# Space complexity
+# O(n × 4^n)   (dominant: result)
