@@ -7,9 +7,9 @@ class Solution:
         for right in range(1, len(nums)):
 
             if curr_sum < 0:
-                curr_sum = nums[right] # resetting the window
+                curr_sum = nums[right] # resetting the window on negative
             else:
-                curr_sum += nums[right] # expanding the window
+                curr_sum += nums[right] # expanding the window on positive to maximize sum
 
             max_sum = max(max_sum, curr_sum)
 
