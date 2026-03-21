@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/insaneDX/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/insaneDX/Leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/insaneDX/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/insaneDX/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/insaneDX/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/insaneDX/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/insaneDX/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/insaneDX/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/insaneDX/Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/insaneDX/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/insaneDX/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0797-rabbits-in-forest](https://github.com/insaneDX/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1095-two-city-scheduling](https://github.com/insaneDX/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1252-break-a-palindrome](https://github.com/insaneDX/Leetcode/tree/master/1252-break-a-palindrome) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/insaneDX/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/insaneDX/Leetcode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/insaneDX/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/insaneDX/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/insaneDX/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/insaneDX/Leetcode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0721-accounts-merge](https://github.com/insaneDX/Leetcode/tree/master/0721-accounts-merge) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/insaneDX/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/insaneDX/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/insaneDX/Leetcode/tree/master/0389-find-the-difference) |
+| [0621-task-scheduler](https://github.com/insaneDX/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/insaneDX/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/insaneDX/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/insaneDX/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/insaneDX/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/insaneDX/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/insaneDX/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/insaneDX/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/insaneDX/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0803-cheapest-flights-within-k-stops](https://github.com/insaneDX/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -478,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/insaneDX/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/insaneDX/Leetcode/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/insaneDX/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/insaneDX/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1777-determine-if-two-strings-are-close](https://github.com/insaneDX/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Simulation
