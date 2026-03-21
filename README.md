@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/insaneDX/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/insaneDX/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/insaneDX/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/insaneDX/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/insaneDX/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/insaneDX/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/insaneDX/Leetcode/tree/master/0078-subsets) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/insaneDX/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/insaneDX/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/insaneDX/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/insaneDX/Leetcode/tree/master/0070-climbing-stairs) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/insaneDX/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/insaneDX/Leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/insaneDX/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
