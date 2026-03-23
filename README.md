@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/insaneDX/Leetcode/tree/master/0176-second-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/insaneDX/Leetcode/tree/main/0185-department-top-three-salaries/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
