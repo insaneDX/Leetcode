@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/insaneDX/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/insaneDX/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/insaneDX/Leetcode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/insaneDX/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/insaneDX/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/insaneDX/Leetcode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/insaneDX/Leetcode/tree/master/0139-word-break) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/insaneDX/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/insaneDX/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/insaneDX/Leetcode/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/insaneDX/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/insaneDX/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/insaneDX/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/insaneDX/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
